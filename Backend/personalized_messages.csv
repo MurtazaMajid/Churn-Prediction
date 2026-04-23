@@ -1,0 +1,49 @@
+Customer_ID,Segment,Risk_Level,Churn_Probability,Recency_Days,Discount_Offered,SMS,Email_Subject,Email_Body,App_Notification
+342.0,Lost,High,0.9823,59,20%,We've missed you! 20% off next visit,We've Missed You at Campbell's Restaurant,"Dear valued customer, it's been a while since your last visit to Campbell's Restaurant. We've missed serving you and would love to have you back. We've added some exciting new menu items, including our signature Fry Flight and Empanada Flight. As a valued customer, we'd like to offer you 20% off your next visit. We hope to see you soon and look forward to serving you again.",20% off next visit!
+6456.0,Lost,High,0.9791,59,20%,We've missed you! 20% off next visit,We've Missed You,"Dear friend, it's been a while since you last visited us at Campbell's Restaurant. We've missed you and would love to have you back. We're excited to share some of our new menu highlights with you, including our delicious Breakfast Burrito, Macaroni & Cheese, and Baby Back Ribs Flight. As a valued customer, we'd like to offer you 20% off your next visit. We can't wait to see you soon and serve you a meal that will make your taste buds happy. Simply show this email to your server to redeem your discount.",20% off next visit!
+7383.0,Lost,High,0.979,59,20%,We've missed you! 20% off next visit,We've Missed You at Campbell's Restaurant,"Dear valued customer, 
+
+It's been a while since your last visit to Campbell's Restaurant, and we've truly missed serving you! We wanted to reach out and invite you back with a special offer - 20% off your next visit. 
+
+We've been busy in the kitchen, and our menu is looking better than ever. Be sure to check out our $5 Burger, Breakfast Burrito, and Empanada Flight on your next visit. 
+
+Looking forward to welcoming you back soon! 
+
+Best regards, The Campbell's Restaurant Team",20% off next visit!
+3066.0,Lost,High,0.9787,46,20%,We miss you! 20% off next visit,We've Missed You at Campbell's!,"Dear friend, it's been a while since we've seen you at Campbell's. We wanted to reach out and let you know how much we've missed you. We're excited to share some of our new menu highlights with you, including our signature Chicken Wing Flight and Fettuccine Alfredo. As a special treat, we'd like to offer you 20% off your next visit. We can't wait to welcome you back and serve you again soon. Best, The Campbell's Team",20% off next visit!
+5650.0,Lost,High,0.9787,63,20%,We've missed you! 20% off next visit,We've Missed You at Campbell's Restaurant,"Dear valued customer, 
+
+We've noticed it's been a while since your last visit to Campbell's Restaurant, and we've truly missed you! We're eager to welcome you back and share our latest menu highlights with you. 
+
+Our current favorites include our Flights 3 Egg Omelet, Caesar Salad, and BBQ Pulled Pork Sandwich. 
+
+To make your next visit even more special, we'd like to offer you 20% off your next meal with us. We look forward to serving you again soon!",20% Off Next Visit!
+3610.0,Lost,High,0.9786,60,20%,We miss you! 20% off next visit,We've Missed You at Campbell's Restaurant,"Dear valued customer, 
+We've noticed it's been a while since your last visit to Campbell's Restaurant, and we wanted to reach out and invite you back! 
+We're excited to share our new menu highlights with you, including our Around the World and Taco Flight signature flights. 
+As a special thank you for choosing us in the past, we'd like to offer 20% off your next visit. We look forward to serving you again soon!",20% off next visit!
+4861.0,Lost,High,0.9777,57,20%,We've missed you! 20% off next visit,We've Missed You at Campbell's Restaurant,"Dear valued customer, 
+
+It's been a while since we last saw you at Campbell's Restaurant. We've missed serving you and wanted to reach out with a special offer to bring you back. 
+
+We're excited to share some of our newest menu highlights with you, including our Beef Slider, Chicken Slider, and Baby Back Ribs Flight. 
+
+As a token of our appreciation, we'd like to offer you 20% off your next visit. We can't wait to see you again and serve you the great food you've come to expect from us.",20% off next visit!
+4532.0,Lost,High,0.9776,55,20%,We miss you! 20% off next visit,We've Missed You at Campbell's!,"Dear valued customer, 
+we've noticed it's been a while since your last visit. We're excited to welcome you back! 
+As a special treat, we'd like to offer you 20% off your next meal. 
+Take a look at our menu highlights, including our famous Wednesday Wings and mouth-watering 6 Oz N.Y. Steak & Eggs. 
+Looking forward to serving you again soon!",20% off next visit!
+1563.0,Lost,High,0.9775,51,20%,We've missed you! 20% off next visit,We've Missed You at Campbell's Restaurant,"Dear valued customer, 
+we've noticed it's been a while since your last visit to Campbell's Restaurant. We've missed serving you and want to invite you back with a special offer. 
+
+On your next visit, enjoy 20% off your total bill. We're looking forward to welcoming you back and serving you again soon. 
+
+Best, The Campbell's Team",20% off next visit!
+8753.0,Lost,High,0.9772,59,20%,We've missed you! 20% off next visit,We've Missed You at Campbell's,"Dear valued customer, 
+
+It's been a while since your last visit to Campbell's, and we wanted to reach out and let you know that you've been missed! We're excited to invite you back to try some of our new menu highlights, including our delicious Beignet Flight, Toast Flight, and Flights Burger. 
+
+As a special thank you for choosing Campbell's, we'd like to offer you 20% off your next visit. We can't wait to welcome you back and serve you an amazing meal. 
+
+Best regards, The Campbell's Team",20% off next visit!
